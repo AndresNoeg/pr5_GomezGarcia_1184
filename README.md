@@ -13,6 +13,7 @@
 
 ![image](https://github.com/user-attachments/assets/32abe1fb-35d6-4313-b5dc-5d74e43e1df7)
 
+![image](https://github.com/user-attachments/assets/bbaec8ad-988b-4c20-8c25-ebea35220aad)
 
 
 <!DOCTYPE html>
@@ -30,6 +31,7 @@
 
 ![image](https://github.com/user-attachments/assets/2cf30a89-6c35-4b85-9d0e-66c9777fad16)
 
+![image](https://github.com/user-attachments/assets/c4ce1d61-c850-41cc-820a-f00ef79d61eb)
 
 
 <!DOCTYPE html>
@@ -50,6 +52,7 @@ la ciencia con un solo libro</p>
 
 ![image](https://github.com/user-attachments/assets/7c5b8d32-8558-4376-b1bc-04ad0ffe0117)
 
+![image](https://github.com/user-attachments/assets/1ef0f791-c8ab-476e-be05-95afdc8df40d)
 
 
 <!DOCTYPE html>
@@ -63,7 +66,7 @@ la ciencia con un solo libro</p>
 
 ![image](https://github.com/user-attachments/assets/333d36ef-da31-427b-8184-ee84bfbc51e7)
 
-
+![image](https://github.com/user-attachments/assets/01b0455c-9fd8-49ce-ab67-bdfc58f0207a)
 
 <!DOCTYPE html>
 <html>
@@ -84,6 +87,7 @@ la ciencia con un solo libro</p>
 
 ![image](https://github.com/user-attachments/assets/c5cd9152-0647-438d-97bc-7a36580381f0)
 
+![image](https://github.com/user-attachments/assets/2a297aeb-37a9-4754-8694-644ddc587900)
 
 
 <!DOCTYPE html>
@@ -100,6 +104,9 @@ Holiwis como estas
 </html>
 
 ![image](https://github.com/user-attachments/assets/570b36bf-2b15-4894-8c3b-dca039347250)
+
+![image](https://github.com/user-attachments/assets/0bcec2b1-9969-47c9-9fc5-a60cf7a2c366)
+
 
 
 <!DOCTYPE html>
@@ -122,6 +129,9 @@ Hola amigos!!
 
 ![image](https://github.com/user-attachments/assets/62495b44-d521-4f3a-9c0d-745b21568f67)
 
+![image](https://github.com/user-attachments/assets/a58d4298-b3ca-4f38-bb71-cd2ac28fdbb2)
+
+
 
 <!DOCTYPE html>
 <html>
@@ -136,7 +146,7 @@ Hola amigos!!
 
 ![image](https://github.com/user-attachments/assets/0c4278fe-e0a2-4c2e-aeae-690f9556465d)
 
-
+![image](https://github.com/user-attachments/assets/6350e500-2a5b-4086-b501-40fbc5955ad5)
 
 <!DOCTYPE html>
 <html>
@@ -159,6 +169,8 @@ Hola amigos!!
 ![image](https://github.com/user-attachments/assets/62d3aa61-54cc-4ab4-8aa4-39983bf1a5e7)
 
 
+![image](https://github.com/user-attachments/assets/0326f9a2-ace6-4e01-81da-5ea15070b30c)
+
 <!DOCTYPE html>
 <html>
 <body>
@@ -171,6 +183,9 @@ Hola amigos!!
 </html>
 
 ![image](https://github.com/user-attachments/assets/21ab68db-ad2c-484d-9be9-3dce39f86d54)
+
+![image](https://github.com/user-attachments/assets/918791e7-7332-457b-a308-8c63af45976b)
+
 
 
 
@@ -190,6 +205,9 @@ Hola amigos!!
 
 ![image](https://github.com/user-attachments/assets/bce5d1bc-8a84-4c4b-affc-0a24df51f90c)
 
+![image](https://github.com/user-attachments/assets/4d22d98c-cf4c-441f-8cca-3e4f77b65403)
+
+
 
 
 <!DOCTYPE html>
@@ -206,6 +224,15 @@ Hola amigos!!
 
 <h1>Este es un encabezado</h1>
 <p>Este es un párrafo.</p>
+
+
+![image](https://github.com/user-attachments/assets/c2c5528c-780e-47a6-9420-0aec096b40d2)
+
+![image](https://github.com/user-attachments/assets/4da3db54-f442-4bcf-9aa4-8991a8bd09e1)
+
+
+
+
 
 </body>
 </html>
